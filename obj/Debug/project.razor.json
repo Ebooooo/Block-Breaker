@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "g:\\GitRepos\\UnityCourses\\Unity_2D_Course\\Block_Breaker\\Block Breaker\\Assembly-CSharp.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
